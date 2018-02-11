@@ -30,4 +30,17 @@ my steps to solve the problem
 
 7)10 fold cross validation is done to check the performance of the model
 
+## Steps for applying XGBoost model
+1)appropriate data cleaning is done for selected columns in training and test data
+
+2)as xgboost takes care of missing values and outliers, missing values are being filled with -999
+
+3)converted specific variables of type object to categorical variables and one hot encoding is done
+
+4)divided the training data into training and validation to check the performance of the data
+
+5)built the model by tuning the hyperparameters
+
+6)checked the performance of the model using 10 fold cross validation
+
 
