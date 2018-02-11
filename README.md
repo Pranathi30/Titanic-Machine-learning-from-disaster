@@ -1,13 +1,13 @@
 # Titanic-Machine-learning-from-disaster
 my steps to solve the problem
 ## Data Preprocessing and Modeling steps for applying Logistic Regression algorithm
-1) found out the missing  in both training and test data sets
+1)found out the missing  in both training and test data sets
 
-2) imputation of missing values was done apropriately in both training and test set
+2)imputation of missing values was done apropriately in both training and test set
 
 3)changed the variables of type object to categorical variables in both training and test
 
-4) one hot encoding is done for categorical variables
+4)one hot encoding is done for categorical variables
 
 5)divided the training data into training and validation  data to check the performance of the model
 
