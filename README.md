@@ -43,4 +43,5 @@ my steps to solve the problem
 
 6)checked the performance of the model using 10 fold cross validation
 
+ Performed ensemble learning technique on XGB model, Random forest model and logistic regression model and scored 0.78947 accuracy.
 
